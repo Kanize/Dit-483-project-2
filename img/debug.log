@@ -1,0 +1,3 @@
+[0314/124738.654:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[0318/004114.826:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
+[0322/234228.941:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
